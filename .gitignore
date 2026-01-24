@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Optional local artifacts
+*.faiss
+*.index
+*.pkl
