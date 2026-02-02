@@ -1,0 +1,29 @@
+## Streamlit
+An open-source Python framework for rapidly building interactive AI and data apps. Ideal for prototyping, internal tools, and lightweight production UIs.
+
+## Gradio
+A simple, open-source UI library tailored for ML and LLM demos. Widely used for model testing, Hugging Face Spaces, and quick public interfaces.
+
+## Open WebUI
+A self-hosted, ChatGPT-like web interface for LLMs. Popular for on-prem deployments, privacy-focused environments, and running local models.
+
+## Flowise
+An open-source visual UI for building and deploying LLM workflows using a node-based approach. Often used for LangChain-based applications.
+
+## LangServe (LangChain)
+An open-source serving and UI framework for exposing LLM chains as APIs with optional playground-style interfaces for testing.
+
+## Haystack UI
+An open-source UI component from deepset, designed for search, RAG, and question-answering applications on top of LLMs.
+
+## Chatwoot
+An open-source customer communication platform that integrates AI assistants for chat-based support and automation use cases.
+
+## AnythingLLM
+An open-source desktop and web UI for running and managing local or remote LLMs, focused on document-based chat and RAG workflows.
+
+## Dify (Community Edition)
+An open-source LLMOps platform with built-in UI for prompt management, datasets, and AI application deployment.
+
+## Botpress (Open Source)
+An open-source conversational AI platform for building and deploying chatbots with LLM integration and visual flow editors.
